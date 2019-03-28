@@ -1,0 +1,515 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getJsonForLocation works on BU East 1`] = `
+Object {
+  "dinner": Object {
+    "friday": Array [
+      Object {
+        "link": "https://www.facebook.com/Kababish-295738023913761/",
+        "name": "Kebabish",
+      },
+    ],
+    "monday": Array [
+      Object {
+        "link": "https://www.facebook.com/Kababish-295738023913761/",
+        "name": "Kebabish",
+      },
+    ],
+    "saturday": Array [],
+    "sunday": Array [],
+    "thursday": Array [
+      Object {
+        "name": "Riceburg",
+      },
+    ],
+    "tuesday": Array [
+      Object {
+        "name": "Sufra",
+      },
+    ],
+    "wednesday": Array [
+      Object {
+        "link": "http://www.roxysgrilledcheese.com/",
+        "name": "Roxy's Grilled Cheese",
+      },
+    ],
+  },
+  "lunch": Object {
+    "friday": Array [
+      Object {
+        "link": "http://sategrill.com/sate-grill-on-wheels/",
+        "name": "Sate (Momogoose)",
+      },
+    ],
+    "monday": Array [
+      Object {
+        "name": "Riceburg",
+      },
+    ],
+    "saturday": Array [],
+    "sunday": Array [],
+    "thursday": Array [
+      Object {
+        "link": "http://www.bonmetruck.com/",
+        "name": "Bon Me",
+      },
+    ],
+    "tuesday": Array [
+      Object {
+        "link": "http://www.sweettomatoespizzatruck.com",
+        "name": "Sweet Tomato",
+      },
+    ],
+    "wednesday": Array [
+      Object {
+        "link": "http://zinnekenswaffles.com/",
+        "name": "Zinneken's",
+      },
+    ],
+  },
+}
+`;
+
+exports[`getJsonForLocation works on BU West 1`] = `
+Object {
+  "dinner": Object {
+    "friday": Array [],
+    "monday": Array [
+      Object {
+        "link": "https://tandoorandcurryonwheels.com/",
+        "name": "Tandoor and Curry",
+      },
+    ],
+    "saturday": Array [],
+    "sunday": Array [],
+    "thursday": Array [
+      Object {
+        "link": "https://www.facebook.com/Perros-Paisas-En-Boston-748803585293605/",
+        "name": "Perros Paisas",
+      },
+    ],
+    "tuesday": Array [],
+    "wednesday": Array [
+      Object {
+        "link": "https://www.facebook.com/Kababish-295738023913761/",
+        "name": "Kebabish",
+      },
+    ],
+  },
+  "lunch": Object {
+    "friday": Array [
+      Object {
+        "link": "https://www.facebook.com/Bibim-Box-1751040118466317/",
+        "name": "Bibim Box",
+      },
+    ],
+    "monday": Array [
+      Object {
+        "link": "https://tandoorandcurryonwheels.com/",
+        "name": "Tandoor and Curry",
+      },
+    ],
+    "saturday": Array [],
+    "sunday": Array [],
+    "thursday": Array [
+      Object {
+        "name": "Chef Leo's Kitchen",
+      },
+    ],
+    "tuesday": Array [
+      Object {
+        "link": "https://www.facebook.com/Perros-Paisas-En-Boston-748803585293605/",
+        "name": "Perros Paisas",
+      },
+    ],
+    "wednesday": Array [
+      Object {
+        "link": "https://twitter.com/dragonrollgrill?lang=en",
+        "name": "IQ Cooking on Wheels",
+      },
+    ],
+  },
+}
+`;
+
+exports[`getJsonForLocation works on Belvidere Street 1`] = `
+Object {
+  "dinner": Object {
+    "friday": Array [],
+    "monday": Array [
+      Object {
+        "link": "https://www.facebook.com/Mediterranean-Home-Cooking-440428386060916/",
+        "name": "Mediterranean Home Cooking",
+      },
+      Object {
+        "name": "Zaaki",
+      },
+    ],
+    "saturday": Array [],
+    "sunday": Array [],
+    "thursday": Array [
+      Object {
+        "link": "https://www.facebook.com/Da-Bomb-Truck-1799287196752099/",
+        "name": "Da Bomb",
+      },
+    ],
+    "tuesday": Array [
+      Object {
+        "link": "https://cornedbeefbus.com/",
+        "name": "Get Your Irish On",
+      },
+      Object {
+        "link": "https://www.facebook.com/Kababish-295738023913761/",
+        "name": "Kebabish",
+      },
+    ],
+    "wednesday": Array [
+      Object {
+        "link": "http://twitter.com/bartlebysfood?lang=en",
+        "name": "Bartleby's Seitan Stand",
+      },
+      Object {
+        "link": "https://www.facebook.com/Da-Bomb-Truck-1799287196752099/",
+        "name": "Da Bomb",
+      },
+    ],
+  },
+  "lunch": Object {
+    "friday": Array [
+      Object {
+        "link": "https://www.facebook.com/Kababish-295738023913761/",
+        "name": "Kebabish",
+      },
+      Object {
+        "link": "https://www.redbones.com/",
+        "name": "Redbones BBQ",
+      },
+      Object {
+        "link": "https://twitter.com/eatwalloons?lang=en",
+        "name": "Walloons",
+      },
+    ],
+    "monday": Array [
+      Object {
+        "link": "https://twitter.com/curbsidecaps?lang=en",
+        "name": "Curbside Caps",
+      },
+      Object {
+        "name": "Amigos Locos",
+      },
+      Object {
+        "link": "https://www.melttruckboston.com/",
+        "name": "Melt Food Truck",
+      },
+    ],
+    "saturday": Array [],
+    "sunday": Array [],
+    "thursday": Array [
+      Object {
+        "link": "http://www.thechubbychickpea.com/",
+        "name": "Chubby Chickpea",
+      },
+      Object {
+        "name": "Taco de France",
+      },
+      Object {
+        "link": "http://www.sweetstreetgelato.com/",
+        "name": "Sweet Street Gelato",
+      },
+    ],
+    "tuesday": Array [
+      Object {
+        "link": "https://cornedbeefbus.com/",
+        "name": "Get Your Irish On",
+      },
+      Object {
+        "link": "https://twitter.com/sabrosotaqueria",
+        "name": "Sabroso Taqueria",
+      },
+      Object {
+        "link": "http://www.thechubbychickpea.com/",
+        "name": "The Chubby Chickpea",
+      },
+    ],
+    "wednesday": Array [
+      Object {
+        "link": "http://www.revelryboston.com/",
+        "name": "Reverly",
+      },
+      Object {
+        "link": "https://twitter.com/bartlebysfood?lang=en",
+        "name": "Bartleby's Seitan Stand",
+      },
+      Object {
+        "link": "https://twitter.com/bajatacotruck?lang=en",
+        "name": "Baja Taco Truck",
+      },
+    ],
+  },
+}
+`;
+
+exports[`getJsonForLocation works on China Trade Building 1`] = `
+Object {
+  "dinner": Object {
+    "friday": Array [],
+    "monday": Array [],
+    "saturday": Array [],
+    "sunday": Array [],
+    "thursday": Array [],
+    "tuesday": Array [],
+    "wednesday": Array [],
+  },
+  "lunch": Object {
+    "friday": Array [],
+    "monday": Array [
+      Object {
+        "link": "http://oathpizza.com/",
+        "name": "Oath Pizza",
+      },
+    ],
+    "saturday": Array [],
+    "sunday": Array [],
+    "thursday": Array [
+      Object {
+        "link": "https://twitter.com/dragonrollgrill?lang=en",
+        "name": "IQ Cooking on Wheels",
+      },
+    ],
+    "tuesday": Array [
+      Object {
+        "name": "Chef Leo's Kitchen",
+      },
+    ],
+    "wednesday": Array [
+      Object {
+        "link": "https://www.facebook.com/Perros-Paisas-En-Boston-748803585293605/",
+        "name": "Perros Paisas",
+      },
+    ],
+  },
+}
+`;
+
+exports[`getJsonForLocation works on Opera Place 1`] = `
+Object {
+  "dinner": Object {
+    "friday": Array [
+      Object {
+        "link": "https://cornedbeefbus.com/",
+        "name": "Get Your Irish On",
+      },
+    ],
+    "monday": Array [
+      Object {
+        "link": "http://zinnetruck.com/",
+        "name": "Zinneken's",
+      },
+      Object {
+        "link": "https://cornedbeefbus.com/",
+        "name": "Get Your Irish On",
+      },
+    ],
+    "saturday": Array [
+      Object {
+        "link": "http://www.thecookiemonstah.com/",
+        "name": "Cookie Monstah",
+      },
+      Object {
+        "name": "Sufra",
+      },
+    ],
+    "sunday": Array [
+      Object {
+        "link": "http://www.teri-yummy.com/",
+        "name": "Teri-Yummy",
+      },
+    ],
+    "thursday": Array [
+      Object {
+        "link": "https://www.teri-yummy.com/",
+        "name": "Teri-Yummy",
+      },
+      Object {
+        "link": "http://cnrguys.com/",
+        "name": "Chicken and Rice Guys",
+      },
+    ],
+    "tuesday": Array [
+      Object {
+        "link": "http://cnrguys.com/",
+        "name": "Chicken and Rice Guys",
+      },
+      Object {
+        "link": "http://thewhoopiewagon.com/",
+        "name": "The Whoopie Wagon",
+      },
+    ],
+    "wednesday": Array [
+      Object {
+        "link": "http://zinnekenswaffles.com/",
+        "name": "Zinneken's",
+      },
+      Object {
+        "name": "Zaaki",
+      },
+    ],
+  },
+  "lunch": Object {
+    "friday": Array [
+      Object {
+        "link": "http://www.savoryfoodtruck.com/",
+        "name": "Savory",
+      },
+      Object {
+        "link": "http://www.revelryboston.com/",
+        "name": "Revelry",
+      },
+    ],
+    "monday": Array [
+      Object {
+        "link": "https://twitter.com/fatchowda?lang=en",
+        "name": "Fat Chowda",
+      },
+      Object {
+        "link": "https://www.teri-yummy.com/",
+        "name": "Teri-Yummy",
+      },
+    ],
+    "saturday": Array [
+      Object {
+        "link": "http://www.savoryfoodtruck.com/",
+        "name": "Savory",
+      },
+      Object {
+        "name": "Taco Don Beto",
+      },
+    ],
+    "sunday": Array [
+      Object {
+        "link": "http://www.teri-yummy.com/",
+        "name": "Teri-Yummy",
+      },
+      Object {
+        "link": "https://www.facebook.com/Kababish-295738023913761/",
+        "name": "Kebabish",
+      },
+    ],
+    "thursday": Array [
+      Object {
+        "link": "http://www.savoryfoodtruck.com/",
+        "name": "Savory",
+      },
+      Object {
+        "name": "Riceburg",
+      },
+    ],
+    "tuesday": Array [
+      Object {
+        "link": "http://sategrill.com/sate-grill-on-wheels/",
+        "name": "Sate (Momogoose)",
+      },
+      Object {
+        "link": "https://www.facebook.com/Bibim-Box-1751040118466317/",
+        "name": "Bibim Box",
+      },
+    ],
+    "wednesday": Array [
+      Object {
+        "link": "http://oathpizza.com/",
+        "name": "Oath Pizza",
+      },
+      Object {
+        "link": "http://quebradabakingco.com/",
+        "name": "Quebrada Baking Co.",
+      },
+    ],
+  },
+}
+`;
+
+exports[`getJsonForLocation works on Stuart Street 1`] = `
+Object {
+  "dinner": Object {
+    "friday": Array [],
+    "monday": Array [],
+    "saturday": Array [],
+    "sunday": Array [],
+    "thursday": Array [],
+    "tuesday": Array [],
+    "wednesday": Array [],
+  },
+  "lunch": Object {
+    "friday": Array [
+      Object {
+        "link": "http://www.neotbtruck.com/menu/",
+        "name": "North East of the Border",
+      },
+      Object {
+        "link": "https://twitter.com/MoyzillaTruck",
+        "name": "Moyzilla",
+      },
+      Object {
+        "name": "Sheherazad",
+      },
+    ],
+    "monday": Array [
+      Object {
+        "link": "http://diningcar.net/menu/",
+        "name": "Dining Car",
+      },
+      Object {
+        "name": "Kebabish",
+      },
+      Object {
+        "link": "https://www.frozenhoagies.com/",
+        "name": "Frozen Hoagies",
+      },
+    ],
+    "saturday": Array [],
+    "sunday": Array [],
+    "thursday": Array [
+      Object {
+        "link": "http://indulgeindiaft.com/",
+        "name": "Indulge India",
+      },
+      Object {
+        "link": "https://www.facebook.com/Da-Bomb-Truck-1799287196752099/",
+        "name": "Da Bomb Food Truck",
+      },
+      Object {
+        "link": "https://twitter.com/ChikChakBoston",
+        "name": "Chik Chak",
+      },
+    ],
+    "tuesday": Array [
+      Object {
+        "link": "https://twitter.com/teriyummy",
+        "name": "Teri-Yummy",
+      },
+      Object {
+        "link": "https://twitter.com/cnrguys",
+        "name": "Chicken and Rice Guys",
+      },
+      Object {
+        "link": "https://twitter.com/curbsidecaps?lang=en",
+        "name": "Curbside Caps",
+      },
+    ],
+    "wednesday": Array [
+      Object {
+        "link": "http://www.roxysgrilledcheese.com/",
+        "name": "Roxy's Grilled Cheese",
+      },
+      Object {
+        "link": "http://www.captainmardens.com/food-truck",
+        "name": "Cod Squad",
+      },
+      Object {
+        "link": "https://twitter.com/sabrosotaqueria?lang=en",
+        "name": "Sabroso Taqueria",
+      },
+    ],
+  },
+}
+`;

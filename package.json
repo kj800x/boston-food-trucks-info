@@ -1,0 +1,36 @@
+{
+  "name": "boston-food-trucks-info",
+  "version": "1.0.0",
+  "description": "Simple library to scrape data from the boston food trucks website",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "refresh:test:data": "curl -o src/__test__/__data__/city-boston-food-trucks-schedule.html https://www.boston.gov/departments/small-business-development/city-boston-food-trucks-schedule"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kj800x/boston-food-trucks-info.git"
+  },
+  "keywords": [
+    "boston",
+    "food-trucks",
+    "food",
+    "json",
+    "scrape",
+    "web-scrape"
+  ],
+  "author": "Kevin Johnson <kevin@coolkev.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kj800x/boston-food-trucks-info/issues"
+  },
+  "homepage": "https://github.com/kj800x/boston-food-trucks-info#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  },
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
